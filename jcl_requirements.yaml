@@ -16,5 +16,5 @@ dependencies:
   - pip:
     - torch==1.4.0
     - torchvision==0.5.0
-prefix: C:\Users\9710218\AppData\Local\Continuum\anaconda3\envs\jcl
+
 
