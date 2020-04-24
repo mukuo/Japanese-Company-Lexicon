@@ -1,0 +1,20 @@
+name: jcl
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.6.10=h9f7ef89_1
+  - beautifulsoup4=4.8.2=py36_0
+  - lxml=4.4.2=py36h1350720_0
+  - numpy-base=1.18.1=py36hc3f5095_1
+  - pandas=0.25.3=py36he350917_0
+  - pyahocorasick=1.4.0=py36h68a101e_1
+  - scikit-learn=0.22.1=py36h6288b17_0
+  - selenium=3.141.0=py36he774522_0
+  - sklearn-crfsuite=0.3.6=pyh9f0ad1d_0
+  - tqdm=4.41.1=py_0
+  - pip:
+    - torch==1.4.0
+    - torchvision==0.5.0
+prefix: C:\Users\9710218\AppData\Local\Continuum\anaconda3\envs\jcl
+
